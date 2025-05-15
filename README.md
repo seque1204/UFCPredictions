@@ -50,4 +50,4 @@ The goal was to test predictive power of neural networks on a dataset of my inte
 
 ## Contact
 
-For questions or collaboration opportunities, feel free to reach out via [GitHub Issues](../../issues) or [LinkedIn]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/josequeira/)).
+For questions or collaboration opportunities, feel free to reach out via [GitHub Issues](../../issues) or [LinkedIn]((https://www.linkedin.com/in/josequeira/)).
